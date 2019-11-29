@@ -3,7 +3,6 @@
 ### This project aims the user who is searching a new home via using Augmented Reality from their Android phones.  
 
 **Tell us what your idea is.**   
-<br/>
 
 *Around a few months ago, I had started to create the retailer platform that provides user to see sale or rent houses easily. This project contains 2 steps (website and Android mobile app). The website has been finalized with idea that the house owner or retailer can be logged in platform and adding their house through the dashboard. Now, I am developing Android application with AR technology that displaying info about the building user are looking at.* 
 
@@ -26,7 +25,7 @@ Describe where your project is, how you could use Google’s help in the endeavo
 <br/>
 
 **How Google could help us achieve the goal :**  
-• Assigning experienced mentor for the retailer project  
+• Assigning experienced mentor for the retailer project 
 • Free API Token to train ML models through using Google APIs 
 • Helping us to reach a wide audience
 • DataSet about retail platform (if possible) 
