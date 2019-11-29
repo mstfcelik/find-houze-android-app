@@ -25,10 +25,10 @@ Describe where your project is, how you could use Google’s help in the endeavo
 <br/>
 
 **How Google could help us achieve the goal :**  
-• Assigning experienced mentor for the retailer project
-• Free API Token to train ML models through using Google APIs
-• Helping us to reach a wide audience
-• DataSet about retail platform (if possible) 
+ - Assigning experienced mentor for the retailer project
+ - Free API Token to train ML models through using Google APIs
+ - Helping us to reach a wide audience
+ - DataSet about retail platform (if possible) 
 <br/>
 
 **Timeline:**
@@ -65,7 +65,6 @@ Describe where your project is, how you could use Google’s help in the endeavo
 <br/>
 
 **Tell us about you** 
-A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project.**  
   
 *Well, I am Mustafa Celik from Turkey. I’m currently working such as Senior Mobile & Web Developer at TAV Technologies. I've been in the aviation industry latest five years, primarily working in web and mobile development team. I’ve designed and developed core features for aviation Android application using Java. Also, I’ve developed smart TV and smart watch applications on Android device. Based on our company need, the kiosk application has been created too. Before that, I’ve worked with media channels, investors, engineers, and product management to deliver user-friendly and visually appealing mobile applications ensured that content met or exceeded business and client requirements 100% of the time for the Android platform on different projects.* 
 
